@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vCa1xTvl2A0=",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Store\\src\\Store.Domain\\Store.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaueo\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\kaueo\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
